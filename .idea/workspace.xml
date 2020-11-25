@@ -19,24 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23850c50-71e5-40b5-8d14-c86c486b44bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Compete html/images/智慧建筑.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testhtml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testhtml.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compete html/examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/Compete html/examples.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compete html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Compete html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compete html/indexwide.html" beforeDir="false" afterPath="$PROJECT_DIR$/Compete html/indexwide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compete html/one-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/Compete html/one-column.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compete html/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/Compete html/text.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compete html/three-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/Compete html/three-column.html" afterDir="false" />
-    </list>
+    <list default="true" id="23850c50-71e5-40b5-8d14-c86c486b44bf" name="Default Changelist" comment="add and modified" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kYPrTnCYtXnRBmOV4d511pVoYy" />
@@ -64,8 +59,16 @@
       <option name="presentableId" value="Default" />
       <updated>1605874755633</updated>
       <workItem from="1605874758741" duration="1685000" />
-      <workItem from="1606323028547" duration="2249000" />
+      <workItem from="1606323028547" duration="2575000" />
     </task>
+    <task id="LOCAL-00001" summary="add and modified">
+      <created>1606325733374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606325733374</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add and modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="add and modified" />
   </component>
 </project>
