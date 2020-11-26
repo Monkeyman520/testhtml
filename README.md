@@ -6,3 +6,6 @@
 
 
 dev_test将两者合并  暂时不使用框架进行操作
+
+# 2020 11  26
+update index and add a picture ro the files
